@@ -1,4 +1,3 @@
-__author__ = 'pato'
 import urllib, json, urllib2
 
 class VPNMonitor:
